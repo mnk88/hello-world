@@ -1,2 +1,4 @@
 # hello-world
-Guide example repo
+
+Hi earthlings!
+I'm coming from Sirius, in peace for all mankind.
